@@ -1,6 +1,6 @@
 let person = {
 name: 'Prince',
-age: 23
+age: 2332
 };
 
 person.name = 'Yaw'
